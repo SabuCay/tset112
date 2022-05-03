@@ -4,5 +4,6 @@ public class MyMain {
 
         Person peter = new Person("Peter", "Hansen", 22);
         System.out.println(peter);
+        System.out.println("Ny version");
     }
 }
